@@ -1,0 +1,7 @@
+C:\Users\DELL\Source\Repos\Kimberly093\Figuras_Geometricas\obj\Debug\FigurasGeometricas.csproj.AssemblyReference.cache
+C:\Users\DELL\Source\Repos\Kimberly093\Figuras_Geometricas\obj\Debug\FigurasGeometricas.Form1.resources
+C:\Users\DELL\Source\Repos\Kimberly093\Figuras_Geometricas\obj\Debug\FigurasGeometricas.csproj.GenerateResource.cache
+C:\Users\Licenciaturas\Desktop\Figuras_Geometricas-main\obj\Debug\FigurasGeometricas.Form1.resources
+C:\Users\Licenciaturas\Desktop\Figuras_Geometricas-main\obj\Debug\FigurasGeometricas.Properties.Resources.resources
+C:\Users\Licenciaturas\Desktop\Figuras_Geometricas-main\obj\Debug\FigurasGeometricas.csproj.GenerateResource.cache
+C:\Users\Licenciaturas\Desktop\Figuras_Geometricas-main\obj\Debug\FigurasGeometricas.csproj.CoreCompileInputs.cache
